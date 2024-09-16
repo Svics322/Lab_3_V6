@@ -1,0 +1,10 @@
+﻿  UnitTest2.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\StirBellDigits.cpp(19,13): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\StirBellDigits.cpp(19,34): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\StirBellDigits.cpp(28,16): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\StirBellDigits.cpp(42,53): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+  UnitTest2.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_V6\x64\Debug\UnitTest2.dll

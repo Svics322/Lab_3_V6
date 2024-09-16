@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  StirBellDigits.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\StirBellDigits.cpp(19,13): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\StirBellDigits.cpp(19,34): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\StirBellDigits.cpp(28,16): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_T2_V6\StirBellDigits.cpp(42,53): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+  Generating Code...
+  Lab3_T2_V6.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_V6\x64\Debug\Lab3_T2_V6.exe

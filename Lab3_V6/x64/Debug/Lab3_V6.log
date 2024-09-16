@@ -1,0 +1,6 @@
+﻿  Arrangements.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_V6\Arrangements.cpp(36,35): warning C4101: 'e': unreferenced local variable
+  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_V6\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab3_V6.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_3\Source\Lab3_V6\x64\Debug\Lab3_V6.exe
